@@ -1,32 +1,31 @@
 # LANGKAH - LANGKAH PRAKTIKUM 
 
-- Membuat layout awalan dengan menggunakan seperti ini
+- Membuat layout awalan sederhana
 
-![gambar1](GAMBAR-AKU/aku9.png)
+![Screenshot (205)](https://github.com/Birrhamm/lab6_web/assets/115520530/b89c7964-f02b-458d-8c45-add762b65c9d)
 
-![gambar1](GAMBAR-AKU/aku5.png)
+![q1](https://github.com/Birrhamm/lab6_web/assets/115520530/e568db03-4dcb-4f9b-810b-87e2add9de6b)
 
 - Membuat isiin pada halaman layout
+  
+![Screenshot (206)](https://github.com/Birrhamm/lab6_web/assets/115520530/b1e8c163-eb34-43e6-9018-cafd2a69af22)
 
-![gambar1](GAMBAR-AKU/aku10.png)
+![q2](https://github.com/Birrhamm/lab6_web/assets/115520530/17791dc2-7013-4fe0-a7b6-b383c6d5dd16)
 
-![gambar1](GAMBAR-AKU/aku4.png)
+- Membuat gamabar 3 warna
+  
+![Screenshot (207)](https://github.com/Birrhamm/lab6_web/assets/115520530/de7d02fd-a21b-42ec-9b5c-27c250564360)
 
-- membuat gamabr 3 warna 
-
-![gambar1](GAMBAR-AKU/aku11.png)
-
-![gambar1](GAMBAR-AKU/aku3.png)
-
+![q3](https://github.com/Birrhamm/lab6_web/assets/115520530/a1e711f2-d8c2-4090-976a-9836c1ce6bfe)
 
 - Membuat widget pada halaman 
 
-![gambar1](GAMBAR-AKU/aku15.png)
+![Screenshot (208)](https://github.com/Birrhamm/lab6_web/assets/115520530/7bac95ff-fc09-40d4-9d0f-80afbe0ef53c)
 
-![gambar1](GAMBAR-AKU/aku2.png)
+![q4](https://github.com/Birrhamm/lab6_web/assets/115520530/5b03fa4d-c7f3-40cf-b354-43ee03777e58)
 
-- membuat tambahan first featurette dan footer
+- Membuat tambahan first featurette dan footer
 
-![gambar1](GAMBAR-AKU/aku14.png)
+![Screenshot (209)](https://github.com/Birrhamm/lab6_web/assets/115520530/ea63d3ce-3d59-4f11-8435-9b1baf08541d)
 
-![gambar1](GAMBAR-AKU/aku1.png)
+![q5](https://github.com/Birrhamm/lab6_web/assets/115520530/8bf36d6c-6011-48aa-ab87-7c593ae98f8f)
